@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32919'
     url: http://www.gutenberg.org/2009/agents/32919
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27801#Children-of-Borneo
 gutenberg_issued: '2009-01-14'
 gutenberg_type: Text
 identifiers:
